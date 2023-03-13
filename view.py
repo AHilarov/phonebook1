@@ -11,3 +11,6 @@ def menu():
     6. Найти контакт
     7. Удалить контакт
     8. Выход''')
+
+def show_contacts(data: list):
+    print('Фамилия: {}')

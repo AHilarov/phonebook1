@@ -5,3 +5,7 @@
 # def save_file()
 
 # def find():
+
+def get_contacts() ->list:
+
+    pass
