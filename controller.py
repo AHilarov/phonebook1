@@ -12,7 +12,8 @@ def start():
             case 2:
                 pass
             case 3:
-                pass
+                
+                view.show_contacts(processor.get_contacts())
             case 4:
                 pass
             case 5:
